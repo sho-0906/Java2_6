@@ -15,7 +15,7 @@ public class Exp6_2 {
 	            } 
 	    }
 		    
-		   System.out.println("1 になるまでに” + step +”回の操作をしました");
+		   System.out.println("1 になるまでに" + step +"の操作をしました");
 	}
 
 }
